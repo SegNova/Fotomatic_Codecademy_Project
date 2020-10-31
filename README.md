@@ -1,2 +1,13 @@
 # Fotomatic_Codecademy_Project
- Debug a wesite uing the knowledge about CSS 
+
+ Debug a wesite uing the knowledge about CSS
+
+## Changes that are made
+
+### 10-30-20
+
+- Began working on fixing the footer
+  - fixed font-size, margin and height.
+  - updated the font-family.
+  - added a z-index to the header and set the top to 0.
+  - fixe the padding,fonts,and size for Main-Content.
