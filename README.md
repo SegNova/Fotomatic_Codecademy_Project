@@ -6,8 +6,14 @@
 
 ### 10-30-20
 
-- Began working on fixing the footer
+- Began working on fixing the header
   - fixed font-size, margin and height.
   - updated the font-family.
   - added a z-index to the header and set the top to 0.
   - fixe the padding,fonts,and size for Main-Content.
+
+### 11-07-20
+
+- Worked on the Feature sections
+  - Fixed the image and sectioin height,widht, and margin.
+  
