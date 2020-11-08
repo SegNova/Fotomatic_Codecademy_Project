@@ -14,6 +14,19 @@
 
 ### 11-07-20
 
-- Worked on the Feature sections
-  - Fixed the image and sectioin height,widht, and margin.
+- Worked on the Feature, Filter, Quotes, and Footer sections
+  - Feature
+
+    - Fixed the image and sectioin height,widht, and margin.
+    - Re-size the images and padding.
+    - maring the title.
   
+  - Quotes
+
+    - HTML fix: code was commented out.
+    - Quote class was not properly called.
+    - Margin fix.
+
+  - Footer
+
+    - Margin fix.
