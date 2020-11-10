@@ -30,3 +30,13 @@
   - Footer
 
     - Margin fix.
+
+### 11-09-20
+
+- Worked on reorganizing media seting, focus on the affect with use a screen with a width of 750px
+
+  - fix background image
+  - Reszie menu.
+  - re-margin Title
+
+**Reminder** - Fix font-family for menu and add  *join* button next to the instagram icon
