@@ -40,3 +40,10 @@
   - re-margin Title
 
 **Reminder** - Fix font-family for menu and add  *join* button next to the instagram icon
+
+### 11-11-20
+
+- Complete on media setting and the project overall
+  - focus on media setting with the width of 760 and 510 px.
+  - fixed all set up: fonts, size, and position.
+  
